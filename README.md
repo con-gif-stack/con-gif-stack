@@ -19,18 +19,17 @@
 - 🎓 Armed with a **business degree** and teaching myself to build with AI
 - 🤖 Training under **Claude Code**, one commit at a time
 - 💼 Fighting where **business meets tech**: automation, tools and side quests
-- ⚡ Fun fact: _add something fun about yourself here_
+- 🏋️ Fun fact: I can bench **300 lbs**
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <img src="assets/h-crusade.svg" alt="The Crusade" />
 
-<!-- TODO: replace the placeholder rows below with your real projects -->
 | Quest | What it is | Status |
 | :-- | :-- | :-- |
-| ⚔️ **Project One** | Short one-line description of the project | 🔥 Raging (in progress) |
-| 🛡️ **Project Two** | Short one-line description of the project | 🏰 Mustering (planning) |
-| 💀 **Project Three** | Short one-line description of the project | ☠️ Slain (shipped) |
+| ⛷️ **Ski Game** | Building a ski game | 🔥 Raging (in progress) |
+| 🤖 **Claude Code** | Learning to build with Claude Code | 🔥 Raging (in progress) |
+| 🐙 **GitHub** | Learning Git & GitHub | 🔥 Raging (in progress) |
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
